@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Im a CS student going into my second year of college. I interested in backend systems, compilers, and operating systems. Im planning to build my own custom OS as well as my own custom programming language in the future
+Im a CS student in my second year of college. I interested in backend systems, compilers, and operating systems. Im planning to build my own custom OS as well as my own custom programming language in the future
 
 🔭 &nbsp;I'm currently working on **A full stack banking app using SpringBoot, Postgres, React, and Tailwind**  
 🌱 &nbsp;I'm currently learning **Rust and C**
