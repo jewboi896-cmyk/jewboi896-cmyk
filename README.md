@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Im%20a%20CS%20student%20going%20into%20my%20second%20year%20of%20college.;Im%20interested%20in%20backend%20systems%2C%20compilers%2C%20and%20operating%20systems" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Im%20a%20CS%20student%20in%20my%20second%20year%20of%20college.;Im%20interested%20in%20backend%20systems%2C%20compilers%2C%20and%20operating%20systems" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
